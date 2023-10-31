@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/72514c5d-beef-4943-a8c2-49b9f45063df/deploy-status)](https://app.netlify.com/sites/videoverse-player/deploys)
+
 # About
 It's a YouTube clone app.
 
