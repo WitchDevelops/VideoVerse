@@ -17,3 +17,6 @@ Medium Gray: #888888 - A mid-range gray that can be used for text and some UI el
 
 Dark Gray: #333333 - This is the same dark gray from the original color scheme, which can be used for backgrounds and to create contrast in the design.
 
+## Useful resources
+
+* [Rapid API](https://rapidapi.com/ytdlfree/api/youtube-v31?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=referral&utm_campaign=DevRel)
