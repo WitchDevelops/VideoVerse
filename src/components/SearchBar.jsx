@@ -21,7 +21,7 @@ const SearchBar = () => {
                 placeholder="Search..."
                 value=""
                 onChange={() => { }} ></input>
-            <IconButton type="submit" sx={{ p: '10px', color: 'red' }}>
+            <IconButton type="submit" sx={{ p: '10px', color: 'red' }} aria-label='search'>
                 <Search />
             </IconButton>
         </Paper>
