@@ -3,6 +3,16 @@
 # About
 It's a YouTube clone app.
 
+## Tech
+
+<div align="center">
+  <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/eslint.svg"/>
+  <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/material-ui.svg"/>
+  <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/react-router.svg"/>
+  <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/react.svg"/>
+  <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/vitejs.svg"/>
+</div>
+
 ## Design
 ### Color scheme
 Primary Color: #FF6B6B (Coral Pink) - This warm and inviting color can evoke feelings of creativity and passion.
