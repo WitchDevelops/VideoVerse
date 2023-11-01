@@ -5,13 +5,15 @@ import { CheckCircle } from "@mui/icons-material";
 import { demoThumbnailUrl, demoVideoUrl, demoVideoTitle, demoChannelUrl, demoChannelTitle } from "../utils/constants";
 
 const VideoCard = ({ video: { id: { videoId }, snippet } }) => {
+    const aspectRatio = 9 / 16;
+
     return (
-        <Card sx={{ width: { xs: '100%', sm: '358px', md: '320px' }, boxShadow: 'none', borderRadius: 0 }}>
+        <Card sx={{ width: '100%', boxShadow: 'none', borderRadius: 0 }}>
             <Link to={videoId ? `/video/${videoId}` : demoVideoUrl}>
                 <CardMedia 
                     image={snippet?.thumbnails?.high?.url} 
                     alt={snippet?.title} 
-                    sx={{ width: { xs: '100%', sm: '358px', md: '320px' }, height: 180 }}
+                    sx={{ width: '100%', height: 0, paddingTop: `${aspectRatio * 100}%` }}
                 />
             </Link>
             <CardContent sx={{ backgroundColor: '#1e1e1e', height: '106px' }}>
