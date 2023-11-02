@@ -1,5 +1,3 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/72514c5d-beef-4943-a8c2-49b9f45063df/deploy-status)](https://app.netlify.com/sites/videoverse-player/deploys)
-
 # About
 It's a YouTube clone app.
 
@@ -7,11 +5,16 @@ It's a YouTube clone app.
 
 <div align="center">
   <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/material-ui.svg"/>
-  <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/react-router.svg"/>
   <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/react.svg"/>
+  <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/react-router.svg"/>
   <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/vitejs.svg"/>
   <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/netlify-icon.svg"/>
 </div>
+
+* Material UI
+* React and react-router
+* Vite
+* build and deployed to Netlify
 
 ## Live
 
